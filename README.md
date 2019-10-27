@@ -1,3 +1,2 @@
 # gameoflive
-Реализация Conway's Game of Life на языке Python
-Размер поля 10х10
+Реализация Conway's Game of Life на языке Python, размер поля 10х10
